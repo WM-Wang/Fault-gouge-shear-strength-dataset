@@ -1,5 +1,8 @@
 # Fault-gouge-shear-strength-dataset
-The dataset is currently available upon reasonable request and will be fully released after the associated manuscript is accepted.
+The full Excel dataset is temporarily not publicly downloadable. 
+It will be fully released after the associated manuscript is accepted. 
+Researchers who are interested in using the data may contact the corresponding author.
+
 
 Fault gouge shear strength dataset (Datasets A, B, C) compiled from literature for machine learning analysis
 
