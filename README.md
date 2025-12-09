@@ -1,6 +1,8 @@
 # Fault-gouge-shear-strength-dataset
 The full Excel dataset is temporarily not publicly downloadable. 
+
 It will be fully released after the associated manuscript is accepted. 
+
 Researchers who are interested in using the data may contact the corresponding author.
 
 
