@@ -1,4 +1,6 @@
 # Fault-gouge-shear-strength-dataset
+The dataset is currently available upon reasonable request and will be fully released after the associated manuscript is accepted.
+
 Fault gouge shear strength dataset (Datasets A, B, C) compiled from literature for machine learning analysis
 
 
